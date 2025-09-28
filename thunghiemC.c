@@ -14,6 +14,13 @@ int main(){
 		} while (n <=0);
 	}
 
+
+
+
+
+
+
+	
 	int m = log10(n)+1;
 	long long a[m];
 
@@ -31,6 +38,7 @@ int main(){
 
 	printf("\nTong cac chu so la: %d", tong);
 	return 0;
+
 
 
 }
